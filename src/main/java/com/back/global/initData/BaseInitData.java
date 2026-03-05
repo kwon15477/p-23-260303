@@ -63,6 +63,7 @@ public class BaseInitData {
         wiseSayingService.write("명언2", "작가2");
         wiseSayingService.write("명언3", "작가3");
         wiseSayingService.write("명언4", "작가4");
-        wiseSayingService.write("명언5", "작가5");
+        wiseSayingService.write("명언55", "작가5");
+        System.out.println("work3");
     }
 }

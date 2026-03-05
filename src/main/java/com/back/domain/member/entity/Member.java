@@ -1,6 +1,6 @@
 package com.back.domain.member.entity;
 
-import com.back.global.jpa.entity.BaseEntity;
+import com.back.global.entity.BaseEntity;
 import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
